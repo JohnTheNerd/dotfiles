@@ -1,0 +1,6 @@
+[commit]
+	gpgsign = true
+[user]
+	signingkey = 9F1D8E1B3C4A57D21B0A9F0106FEFC4E7006ADC9
+	email = hello@johnthenerd.com
+	name = John Karabudak
